@@ -216,6 +216,7 @@ function initFooter() {
     <div class="legal">
       <span data-i18n="footer.legal">${t.legal}</span>
       <span data-i18n="footer.legal2">${t.legal2}</span>
+      <a class="made-by" href="https://github.com/tipilek2020-ai" target="_blank" rel="noopener" title="losdek on GitHub"><span class="mark">L</span> made by losdek</a>
     </div>
   `;
 }
